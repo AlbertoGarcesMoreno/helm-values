@@ -17,4 +17,4 @@ ingress-nginx:
         memory: 90Mi
       requests:
         cpu: 100m
-        memory: 90Mi
+        memory: 100Mi
