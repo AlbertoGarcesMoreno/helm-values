@@ -8,7 +8,7 @@ image:
   repository: albertogarces/nodeapp-01
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v03"
+  tag: "v01"
   port:
     name: http-8081
     containerPort: 8081
